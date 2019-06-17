@@ -1,0 +1,535 @@
+fileFormatVersion: 2
+guid: 7da10781c98d44390b9bbd257c2d0479
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1154346248926972455
+    second: ACSpriteChar1
+  - first:
+      213: -333834650749636857
+    second: ACSpriteChar2
+  - first:
+      213: 7976288686180836002
+    second: ACSpriteChar3
+  - first:
+      213: 3311663859902970029
+    second: ACSpriteChar4
+  - first:
+      213: 3652761083851574954
+    second: ACSpriteChar5
+  - first:
+      213: 8233977655051008762
+    second: ACSpriteChar6
+  - first:
+      213: 4185033603097681843
+    second: ACSpriteCharEvo1
+  - first:
+      213: -6580133286874252736
+    second: ACSpriteCharEvo2
+  - first:
+      213: 9129214312769255383
+    second: ACSpriteCharEvo3
+  - first:
+      213: -2950701105635133589
+    second: ACSpriteCharEvo4
+  - first:
+      213: -5581130098618792582
+    second: ACSpriteCharEvo5
+  - first:
+      213: 4573174867434744465
+    second: ACSpriteCharEvo6
+  - first:
+      213: -8806443590082388078
+    second: ACSpriteCharEnemie1
+  - first:
+      213: 1766060565258817762
+    second: ACSpriteCharEnemie2
+  - first:
+      213: -2006228435751917161
+    second: ACSpriteCharEnemie3
+  - first:
+      213: 2355190990039188059
+    second: ACSpriteCharEnemie4
+  - first:
+      213: 2113649683966053990
+    second: ACSpriteCharEnemie5
+  - first:
+      213: -969891034357179548
+    second: ACSpriteCharEnemie6
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ACSpriteChar1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 206
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710db2da6ed3d4a17bc2ec4f557cbb3c
+      internalID: 1154346248926972455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACSpriteChar2
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 206
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5099bcd5cac843339a225440e89d177
+      internalID: -333834650749636857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACSpriteChar3
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 206
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb275cf25c6b49a58b99271b367d469
+      internalID: 7976288686180836002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACSpriteChar4
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 206
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8abc86f37444532b73a92e381e4e52
+      internalID: 3311663859902970029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACSpriteChar5
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 206
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e63b4f35db11445fb02ba0ac022c149
+      internalID: 3652761083851574954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACSpriteChar6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 156
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b2dab126f824022977988a5526a8f3
+      internalID: 8233977655051008762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACSpriteCharEvo1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 156
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a128cbcec8f824aadb9c1d343c954cab
+      internalID: 4185033603097681843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACSpriteCharEvo2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 156
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b1ecce690f548c79ea3c398e6f24bb
+      internalID: -6580133286874252736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACSpriteCharEvo3
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 156
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fff4bfca39334cce89da4d8cc25bc5e
+      internalID: 9129214312769255383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACSpriteCharEvo4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 156
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28ee46fa57bd435f90792d50e3e0b25
+      internalID: -2950701105635133589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACSpriteCharEvo5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 106
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ad3d6993fb0403a9f70f921cf49ca4
+      internalID: -5581130098618792582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACSpriteCharEvo6
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 106
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cefa97d9cffe94bd6a652668b209dcf6
+      internalID: 4573174867434744465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACSpriteCharEnemie1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 106
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e469c26c99c144f99a1ac50016bcba6
+      internalID: -8806443590082388078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACSpriteCharEnemie2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 106
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1580529f7934e79a0a1e65c3034c28
+      internalID: 1766060565258817762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACSpriteCharEnemie3
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 106
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eac8352e93744274a55e79edfe0bc5e
+      internalID: -2006228435751917161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACSpriteCharEnemie4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6238a4fc6da264b168b1274e2c4ecbd8
+      internalID: 2355190990039188059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACSpriteCharEnemie5
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 56
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717645a31cff4432fb4adc6dada43788
+      internalID: 2113649683966053990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACSpriteCharEnemie6
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 56
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c84ece1403c4b87897425a7a4f0d81
+      internalID: -969891034357179548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

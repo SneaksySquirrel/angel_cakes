@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: 3d67020c6b8f84a108ed383a83063bbe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3466786415495638497
+    second: Angels_Cakes_Atlas_0
+  - first:
+      213: -3611758753338440868
+    second: ACSpriteEnviroBlock
+  - first:
+      213: 7624668408763667506
+    second: ACSpriteMenuBlock
+  - first:
+      213: 2165734124285429263
+    second: ACSpriteBonus
+  - first:
+      213: -7599973298777159548
+    second: ACSpriteHealth
+  - first:
+      213: 5760678579517991242
+    second: ACSpriteCake
+  - first:
+      213: 898159497210810485
+    second: ACSpriteBackground
+  - first:
+      213: -6275984641451330379
+    second: ACSpriteCloud1
+  - first:
+      213: 4234835035334875145
+    second: ACSpriteCloud2
+  - first:
+      213: -1115510480909460162
+    second: ACSpriteCloud3
+  - first:
+      213: -26318257524930838
+    second: ACSpriteCloud4
+  - first:
+      213: 701628772962308371
+    second: ACSpriteCloud5
+  - first:
+      213: -2654746396312054262
+    second: ACSpriteCloud6
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 250
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Angels_Cakes_Atlas_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1571
+        width: 563
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a9f4ce5563847438aa33885002f042
+      internalID: -3466786415495638497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACSpriteEnviroBlock
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1894
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 20, y: 20, z: 20, w: 20}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697854f7cadf04b7dbf86244329c897f
+      internalID: -3611758753338440868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACSpriteMenuBlock
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1743
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78b8fc644dcb443383d70db26b64184
+      internalID: 7624668408763667506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACSpriteBonus
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1665
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3033bdc49e65746d2b408b0751425f4d
+      internalID: 2165734124285429263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACSpriteHealth
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1670
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1002c81cb95042f180be747e6a6627c
+      internalID: -7599973298777159548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACSpriteCake
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 1671
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc723746f2f624ab8a7654295401ec14
+      internalID: 5760678579517991242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACSpriteBackground
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 32
+        width: 706
+        height: 1506
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4307a27e76cbb49f3b2add6e62cb4f86
+      internalID: 898159497210810485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACSpriteCloud1
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 315
+        width: 236
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e304d4b275504fbc95e23c57a9b5322
+      internalID: -6275984641451330379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACSpriteCloud2
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 288
+        width: 123
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2043ee2062b64365bf361d070e81332
+      internalID: 4234835035334875145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACSpriteCloud3
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 282
+        width: 157
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de4b24a4c6f8400f9235c988259ad1e
+      internalID: -1115510480909460162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACSpriteCloud4
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 81
+        width: 145
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db74ebf17df40457ea4258d282c5bc6e
+      internalID: -26318257524930838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACSpriteCloud5
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 86
+        width: 165
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a55a1489da94055b73d45846e1caa1
+      internalID: 701628772962308371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACSpriteCloud6
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 61
+        width: 165
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4f9f660d9a74180a76908ff7ab89ed
+      internalID: -2654746396312054262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
