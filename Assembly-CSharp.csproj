@@ -60,6 +60,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\CollectableCake.cs" />
     <Compile Include="Assets\Scripts\PlayerController.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>/Users/trevorpirie/Projects/Unity/angel_cakes/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>

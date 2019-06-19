@@ -113,27 +113,6 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Angels_Cakes_Atlas_0
-      rect:
-        serializedVersion: 2
-        x: 21
-        y: 1571
-        width: 563
-        height: 463
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 34a9f4ce5563847438aa33885002f042
-      internalID: -3466786415495638497
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: ACSpriteEnviroBlock
       rect:
         serializedVersion: 2
